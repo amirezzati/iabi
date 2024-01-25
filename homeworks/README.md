@@ -8,3 +8,6 @@ In this notebook, I implemented some classic methods in denoising, enhancement, 
 
 ## [Brain MRI classification](https://github.com/amirezzati/iabi/blob/main/homeworks/HW1/pract/Brain_MRI_Classification_HW.ipynb)
 In this notebook, I used Pytorch ResNet model to predict which brain MRI image has tumor or not. Subsequently I reported some metrics and visualized feature space with TSNE.
+
+## [Brain MRI Classififcation with AlexNet](https://github.com/amirezzati/iabi/blob/main/homeworks/HW2/pract/Brain_MRI_Classification_with_AlexNet.ipynb)
+In this notebook, I implemented AlexNet model from scratch to classify brain MRI images into three different classes. Subsequently I separately trained encoder section with Supervised Contrastive loss and also trained classifier section with Cross Entropy loss.
