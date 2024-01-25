@@ -15,8 +15,8 @@ In this notebook, I implemented AlexNet model from scratch to classify brain MRI
 ## [CellProfiler](https://github.com/amirezzati/iabi/tree/main/homeworks/HW3/pract-solution)
 In this project, I used CellProfiler tool and implemented a pipeline to automate the process of biological objects analysis.
 <p align="center">
-<img src="https://raw.githubusercontent.com/amirezzati/iabi/main/homeworks/HW3/pract-info/images/6-1.jpg?token=GHSAT0AAAAAACIZ25C6OV6MP56CWY6GYQKMZNSE6YQ" height="300">
-<img src="https://raw.githubusercontent.com/amirezzati/iabi/main/homeworks/HW3/pract-solution/6-1_outlines.png?token=GHSAT0AAAAAACIZ25C7OWM6DTTO6GFDEABAZNSE7QQ" height="300">
+<img src="https://github.com/amirezzati/iabi/assets/62298323/3f44827f-c721-46ec-9863-cf1a0754f8bd" height="300">
+<img src="https://github.com/amirezzati/iabi/assets/62298323/38bfa3b6-985f-4786-8410-ea30428bd9a2" height="300">
 </p>
 
 ## [Image Registration](https://github.com/amirezzati/iabi/blob/main/homeworks/HW4/pract/HW4_Image_Registration.ipynb)
