@@ -18,3 +18,34 @@ In this project, I used CellProfiler tool and implemented a pipeline to automate
 <img src="https://raw.githubusercontent.com/amirezzati/iabi/main/homeworks/HW3/pract-info/images/6-1.jpg?token=GHSAT0AAAAAACIZ25C6OV6MP56CWY6GYQKMZNSE6YQ" height="300">
 <img src="https://raw.githubusercontent.com/amirezzati/iabi/main/homeworks/HW3/pract-solution/6-1_outlines.png?token=GHSAT0AAAAAACIZ25C7OWM6DTTO6GFDEABAZNSE7QQ" height="300">
 </p>
+
+## [Image Registration](https://github.com/amirezzati/iabi/blob/main/homeworks/HW4/pract/HW4_Image_Registration.ipynb)
+In this notebook, I implemented VoxelMorph from scratch to register retinal pairs.      
+VoxelMorph, an established approach in this field, utilizes deep learning and the U-Net architecture for streamlined image registration. It accurately aligns images by learning deformations, making it advantageous for complex spatial relationships and detailed feature preservation in medical image analysis.
+<p align="center">
+<img src="https://github.com/amirezzati/iabi/assets/62298323/18dbf09c-7455-4507-8dd9-8b3bdebb4fa0" height="300">
+</p>
+
+## [Multiple Instance Learning](https://github.com/amirezzati/iabi/blob/main/homeworks/HW4/pract/HW4_MIL.ipynb)
+In this notebook, I implemented the idea proposed by the paper "Breast Cancer Histopathology Image Classification and Localization using Multiple Instance Learning" and reproduced some of their results.
+
+## [Graph Neural Network](https://github.com/amirezzati/iabi/blob/main/homeworks/HW4/pract/HW4_GNN.ipynb)
+In this notebook, I implemented three different sections:
+1. Nuclei extraction
+  <p align="center">
+  <img src="https://github.com/amirezzati/iabi/assets/62298323/de05a1cd-096f-43fe-a0bb-a16f20fc577a" height="300">
+  </p>                  
+
+2. Graph convolutional network     
+   I implemented a GCN model to generate node embeddings of graph.       
+3. Graph prediction model                     
+   I implemented a GCN Graph Prediction model using the node embeddings from the GCN model and global pooling to create graph-level embeddings.
+- This figure provides an architecture overview of sections 2 and 3:           
+   <p align="center">
+    <img src="https://github.com/amirezzati/iabi/assets/62298323/f1a2f27e-2a73-475a-8acd-73b8fce9f50f">
+   </p>    
+
+</br>      
+<hr>       
+
+**Details of other projects will be posted soon...**
