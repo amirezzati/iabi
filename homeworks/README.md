@@ -45,6 +45,24 @@ In this notebook, I implemented three different sections:
     <img src="https://github.com/amirezzati/iabi/assets/62298323/f1a2f27e-2a73-475a-8acd-73b8fce9f50f">
    </p>    
 
+## [Interpretability](https://github.com/amirezzati/iabi/blob/main/homeworks/HW5/pract/HW5_Interpretability.ipynb)       
+In this notebook, I used Grad-CAM technique as an interpretability algorithm that aids in comprehending the model's decision-making process, debugging, and explaining predictions to non-technical stakeholders. I visualized attention maps over CT-scan images to find out ResNet model focus on which features for classification.       
+<p align="center">
+  <img src="https://github.com/amirezzati/iabi/assets/62298323/c1b30682-f443-4bf8-afc2-8d034552f39d" height="250">
+</p>   
+
+## [Classification using Swin Transformer](https://github.com/amirezzati/iabi/blob/main/homeworks/HW5/pract/HW5_BreastMNIST_Classification.ipynb)       
+This task involves using the Swin Transformer, a cutting-edge neural network model, to distinguish between benign (including normal) and malignant cases in BreastMNIST dataset. There is a common challenge of class imbalance in this task, and I used weighted BCE loss to overcome this problem and improve the model.        
+<p align="center">
+  <img src="https://github.com/amirezzati/iabi/assets/62298323/1627f0cc-4f63-4fa6-8f04-029f1bc3396a" height="400">
+</p>  
+
+## [2D and 3D Segmentation](https://github.com/amirezzati/iabi/blob/main/homeworks/HW5/pract/Segmentation/HW5_Segmentation.ipynb)
+In this notebook, I implemented both 2D-UNet and 3D-UNet models to perform segmentation on a set of 30 volumetric medical images.         
+<p align="center">
+  <img src="https://github.com/amirezzati/iabi/assets/62298323/c268c596-bc9b-4348-9965-d48099b2df2f" height="600">
+</p>   
+
 </br>      
 <hr>       
 
