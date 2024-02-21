@@ -6,11 +6,25 @@ You can access them by clicking on their title
 ## [Classic methods](https://github.com/amirezzati/iabi/blob/main/homeworks/HW1/pract/Classic_HW.ipynb)
 In this notebook, I implemented some classic methods in denoising, enhancement, and sharpening the CT-scan images.   
 
+<p align="center">
+<img src="https://github.com/amirezzati/iabi/assets/62298323/354e1f1f-17bf-48f8-b7f0-e7f7f252e8fc" height="250">
+<img src="https://github.com/amirezzati/iabi/assets/62298323/268a4621-1a83-4d5b-a61f-e18fa4931da8" height="250">
+</p>
+
+
 ## [Brain MRI classification](https://github.com/amirezzati/iabi/blob/main/homeworks/HW1/pract/Brain_MRI_Classification_HW.ipynb)
 In this notebook, I used Pytorch ResNet model to predict which brain MRI image has tumor or not. Subsequently I reported some metrics and visualized feature space with TSNE.
 
+<p align="center">
+<img src="https://github.com/amirezzati/iabi/assets/62298323/1199ab08-246a-4166-83db-f46fb75463b9" height="300">
+</p>
+
 ## [Brain MRI Classififcation with AlexNet](https://github.com/amirezzati/iabi/blob/main/homeworks/HW2/pract/Brain_MRI_Classification_with_AlexNet.ipynb)
 In this notebook, I implemented AlexNet model from scratch to classify brain MRI images into three different classes. Subsequently I separately trained encoder section with Supervised Contrastive loss and also trained classifier section with Cross Entropy loss.
+
+<p align="center">
+<img src="https://github.com/amirezzati/iabi/assets/62298323/9a2aeb36-524c-408d-a40f-f8ca26dbe861" height="400">
+</p>
 
 ## [CellProfiler](https://github.com/amirezzati/iabi/tree/main/homeworks/HW3/pract-solution)
 In this project, I used CellProfiler tool and implemented a pipeline to automate the process of biological objects analysis.
@@ -28,6 +42,10 @@ VoxelMorph, an established approach in this field, utilizes deep learning and th
 
 ## [Multiple Instance Learning](https://github.com/amirezzati/iabi/blob/main/homeworks/HW4/pract/HW4_MIL.ipynb)
 In this notebook, I implemented the idea proposed by the paper "Breast Cancer Histopathology Image Classification and Localization using Multiple Instance Learning" and reproduced some of their results.
+
+<p align="center">
+<img src="https://github.com/amirezzati/iabi/assets/62298323/46664f82-71c4-46d6-b026-e8b1a649ffc8" height="700">
+</p>
 
 ## [Graph Neural Network](https://github.com/amirezzati/iabi/blob/main/homeworks/HW4/pract/HW4_GNN.ipynb)
 In this notebook, I implemented three different sections:
