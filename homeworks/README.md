@@ -79,9 +79,10 @@ This task involves using the Swin Transformer, a cutting-edge neural network mod
 In this notebook, I implemented both 2D-UNet and 3D-UNet models to perform segmentation on a set of 30 volumetric medical images.         
 <p align="center">
   <img src="https://github.com/amirezzati/iabi/assets/62298323/c268c596-bc9b-4348-9965-d48099b2df2f" height="600">
-</p>   
+</p>         
 
-</br>      
-<hr>       
-
-**Details of other projects will be posted soon...**
+## [Medical Image Segmentation with Diffusion Model](https://github.com/amirezzati/iabi/blob/main/homeworks/HW6/pract/DDPM_MRI_Seg.ipynb)
+In this notebook, I had implemented a DPM-based model for brain tumor segmentation over MRI images based on "MedSegDiff: Medical Image Segmentation with Diffusion Probabilistic Model" paper.        
+<p align="center">
+  <img src="https://github.com/amirezzati/iabi/assets/62298323/d2485019-7208-4405-a345-dba0f5f2971d" height="400">
+</p> 
